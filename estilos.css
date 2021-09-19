@@ -4,6 +4,12 @@
     font-size: 10px;
 }
 
+#divBotonIrRegistro{
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #Registerbutton:hover{
-    background-color: blue;
+    background-color: #465F7A;
 }
