@@ -38,6 +38,19 @@
   nav ul li:hover {
     background: #4040ff;
   }
+
+  #Registerbutton{
+    width: 50px;
+    height: 30px;
+    font-size: 10px;
+}
+
+#divBotonIrRegistro{
+  padding-top: 60px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
   .contenido {
     padding-top: 80px;
   }
